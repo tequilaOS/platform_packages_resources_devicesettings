@@ -59,6 +59,7 @@
     <string name="user_aware_display_summary">Utrzymuj ekran włączony, gdy użytkownik spogląda na ekran</string>
     <!-- Ambient Display -->
     <string name="ambient_display_title">Aktywny wyświetlacz</string>
+    <string name="ambient_display_enable_title">Używaj ekranu dostosowanego do otoczenia</string>
     <string name="ambient_display_enable_summary">Wybudź ekran, po otrzymaniu powiadomienia</string>
     <string name="ambient_display_gestures_title">Gesty ekranu dostosowanego do otoczenia</string>
     <string name="ambient_display_gestures_summary">Dodatkowe gesty do wybudzenia ekranu</string>
@@ -81,6 +82,7 @@
     <!-- Pick-up gesture -->
     <string name="pick_up_gesture_title">Podnieś</string>
     <string name="pick_up_gesture_summary">Pulsujące powiadomienia podczas podnoszenia</string>
+    <string name="pick_up_wake_gesture_summary">Wybudź urządzenie przy podniesieniu</string>
     <!-- Pocket gesture -->
     <string name="pocket_gesture_title">Kieszeń</string>
     <string name="pocket_gesture_summary">Pulsujące powiadomienia po wyjęciu z kieszeni</string>
@@ -119,6 +121,7 @@
     <string name="feedback_intensity_medium">Średnia</string>
     <string name="feedback_intensity_high">Wysoka</string>
     <!-- Dialog texts -->
+    <string name="dialog_ok">OK</string>
     <!-- Generic texts -->
     <string name="disabled">Wyłączona</string>
     <!-- Help texts -->
@@ -145,5 +148,9 @@
     <string name="quick_charge_title">Szybkie ładowanie</string>
     <string name="quick_charge_summary">Przełącz szybkie ładowanie. Odłącz i ponownie podłącz ładowarkę po zmianie tego ustawienia</string>
     <!-- Camera focus fix toggle -->
+    <string name="camera_focus_fix_title">Naprawa autofokusa kamery</string>
+    <string name="camera_focus_fix_summary">Włącz, jeśli masz problemy z fokusem w aparacie</string>
     <!-- Wake on gesture -->
+    <string name="wake_on_gesture_title">Wybudź za pomocą gestów</string>
+    <string name="wake_on_gesture_summary">Wybudź urządzenie zamiast pulsować powiadomienia podczas używania gestów</string>
 </resources>
