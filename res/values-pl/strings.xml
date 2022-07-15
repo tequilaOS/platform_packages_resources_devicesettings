@@ -92,6 +92,8 @@
     <string name="proximity_wake_enable_summary">Wybudź urządzenie machnięciem ręką</string>
     <!-- Device actions -->
     <string name="actions_title">Akcje</string>
+    <string name="device_gestures_panel_summary">Specjalne gesty urządzenia</string>
+    <string name="moto_gestures_panel_title">Gesty Moto</string>
     <!-- Camera gesture -->
     <string name="camera_gesture_title">Obróć dwa razy</string>
     <string name="camera_gesture_summary">Uruchom Aparat po użyciu gestu podwójnego obrotu</string>
