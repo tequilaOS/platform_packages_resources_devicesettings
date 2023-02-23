@@ -17,7 +17,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="device_settings_app_name">Setelan lanjutan</string>
-    <string name="screen_gestures_panel_title">Gerakan</string>
+    <string name="screen_gestures_panel_title">Gestur</string>
     <string name="touchscreen_gesture_extras">Tambahan</string>
     <string name="touchscreen_gesture_haptic_feedback">Tanggapan sentuhan</string>
     <string name="touchscreen_gesture_haptic_feedback_summary">Bergetar ketika ada gerakan layar sentuh terdeteksi</string>
@@ -26,14 +26,14 @@
     <string name="gesture_display_title">Gerakan layar mati</string>
     <string name="touchscreen_c_gesture_title">Kamera</string>
     <string name="touchscreen_c_gesture_summary">Gambar \"C\" untuk mengaktifkan kamera</string>
-    <string name="touchscreen_e_gesture_title">Email</string>
+    <string name="touchscreen_e_gesture_title">Surat Elektronik</string>
     <string name="touchscreen_e_gesture_summary">Gambar \"e\" untuk membuka aplikasi email</string>
     <string name="touchscreen_m_gesture_title">Pesan</string>
     <string name="touchscreen_m_gesture_summary">Gambar \"M\" untuk membuka aplikasi pesan</string>
     <string name="touchscreen_s_gesture_title">Pesan</string>
     <string name="touchscreen_s_gesture_summary">Gambar \"S\" untuk membuka aplikasi pesan</string>
-    <string name="touchscreen_v_gesture_title">Pemanggil</string>
-    <string name="touchscreen_v_gesture_summary">Gambar \"V\" untuk membuka aplikasi pemanggil</string>
+    <string name="touchscreen_v_gesture_title">Pemutar Angka</string>
+    <string name="touchscreen_v_gesture_summary">Gambar \"V\" untuk membuka aplikasi pemutar angka</string>
     <string name="touchscreen_w_gesture_title">Peramban</string>
     <string name="touchscreen_w_gesture_summary">Gambar \"W\" untuk membuka aplikasi peramban</string>
     <string name="touchscreen_z_gesture_title">Senter</string>
@@ -42,13 +42,13 @@
     <string name="touchscreen_flashlight_gesture_summary">Gambar sebuah lingkaran untuk menyalakan lampu senter</string>
     <string name="touchscreen_music_gesture_title">Musik</string>
     <string name="touchscreen_music_gesture_summary">Gunakan gerakan untuk mengontrol pemutaran musik \n
-    • Usap ke bawah untuk putar/jeda\n
-    • Usap ke kiri untuk trek sebelumnya\n
-    • Usap ke kanan untuk trek selanjutnya</string>
-    <string name="touchscreen_swipe_up_title">Usap ke atas</string>
-    <string name="touchscreen_swipe_right_title">Usap ke kanan</string>
-    <string name="touchscreen_swipe_down_title">Usap ke bawah</string>
-    <string name="touchscreen_swipe_left_title">Usap ke kiri</string>
+    • Geser ke bawah untuk putar/jeda\n
+    • Geser ke kiri untuk trek sebelumnya\n
+    • Geser ke kanan untuk trek selanjutnya</string>
+    <string name="touchscreen_swipe_up_title">Geser ke atas</string>
+    <string name="touchscreen_swipe_right_title">Geser ke kanan</string>
+    <string name="touchscreen_swipe_down_title">Geser ke bawah</string>
+    <string name="touchscreen_swipe_left_title">Geser ke kiri</string>
     <string name="user_aware_display_title">Tampilan pengguna sadar</string>
     <string name="user_aware_display_summary">Biarkan layar menyala ketika pengguna sedang berada di depan layar</string>
     <string name="ambient_display_title">Tampilan ambien</string>
@@ -65,9 +65,9 @@
     <string name="pickup_sensor_title">Sensor pengambilan</string>
     <string name="proximity_sensor_title">Sensor jarak</string>
     <string name="hand_wave_gesture_title">Lambaian tangan</string>
-    <string name="hand_wave_gesture_summary">Kedipkan pemberitahuan saat melambaikan tangan</string>
+    <string name="hand_wave_gesture_summary">Pemberitahuan kedip saat melambaikan tangan</string>
     <string name="hand_wave_gesture_flat_title">Orientasi deteksi</string>
-    <string name="hand_wave_gesture_flat_summary">Hanya berkedip jika ponsel menghadap ke atas di permukaan datar</string>
+    <string name="hand_wave_gesture_flat_summary">Hanya berkedip jika telepon menghadap ke atas di permukaan datar</string>
     <string name="pick_up_gesture_title">Ambil</string>
     <string name="pick_up_gesture_summary">Pemberitahuan berkedip pada saat diambil</string>
     <string name="pick_up_wake_gesture_summary">Bangunkan perangkat saat diambil</string>
