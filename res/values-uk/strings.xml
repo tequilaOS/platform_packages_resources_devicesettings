@@ -67,6 +67,7 @@
     <string name="hand_wave_gesture_flat_summary">Пульсувати тільки, якщо телефон лежить на плоскій поверхні</string>
     <string name="pick_up_gesture_title">Підняти</string>
     <string name="pick_up_gesture_summary">Показувати сповіщення при підніманні пристрою</string>
+    <string name="pick_up_wake_gesture_summary">Пробуджувати пристрій під час підняття</string>
     <string name="pocket_gesture_title">Кишеня</string>
     <string name="pocket_gesture_summary">Пульсуючі сповіщення при вийманні з кишені</string>
     <string name="proximity_wake_title">Прокидання при наближенні</string>
@@ -112,6 +113,7 @@
     <string name="high_touch_sensitivity_title">Висока чутливість дотику</string>
     <string name="high_touch_sensitivity_summary">Підвищити чутливість екрану для можливості роботи в рукавичках</string>
     <string name="quick_charge_title">Швидка зарядка</string>
+    <string name="camera_focus_fix_title">Виправлення фокуса камери</string>
     <string name="wake_on_gesture_title">Прокидатися від жестів</string>
     <string name="wake_on_gesture_summary">При жестах будити пристрій, а не пульсувати</string>
 </resources>
